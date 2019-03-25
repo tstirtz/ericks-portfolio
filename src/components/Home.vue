@@ -1,12 +1,12 @@
 <template>
-  <div class="hello">
+  <div class="col-lg-9">
     <h1>Hello World</h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'home',
   props: {
     msg: String
   }
