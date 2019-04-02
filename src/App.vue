@@ -1,7 +1,9 @@
 <template>
-  <div id="app" class="row">
-    <router-view></router-view>
-    <Sidebar />
+  <div id="app" class="container-fluid">
+    <div class="row">
+      <router-view></router-view>
+      <Sidebar />
+    </div>
   </div>
 </template>
 
