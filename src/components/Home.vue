@@ -1,5 +1,5 @@
 <template>
-  <div class="col-lg-9">
+  <div class="col-lg-10">
     <h1>Hello World</h1>
   </div>
 </template>
