@@ -1,6 +1,6 @@
 <template>
   <div class="col-lg-10">
-    <h1>Hello World</h1>
+    <h1>Home</h1>
   </div>
 </template>
 

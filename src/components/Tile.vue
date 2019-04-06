@@ -1,9 +1,9 @@
 <template>
-    <a class="tile" v-bind:href="route">
+    <router-link class="tile" v-bind:to="route">
         <div class="tile-content">
             <h2>{{title}}</h2>
         </div>
-    </a>
+    </router-link>
 </template>
 
 <script>

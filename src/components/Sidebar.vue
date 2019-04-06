@@ -1,9 +1,9 @@
 <template>
     <div class="col-lg-2 sidebar">
-            <Tile title="Projects" backgroundImage="" route="/projects"/>
-            <Tile title="Reading" backgroundImage="" route="/reading"/>
-            <Tile title="Listening" backgroundImage="" route="/listening"/>
-            <Tile title="Watching" backgroundImage="" route="/watching"/>
+            <Tile title="Projects" backgroundImage="" route="projects"/>
+            <Tile title="Reading" backgroundImage="" route="reading"/>
+            <Tile title="Listening" backgroundImage="" route="listening"/>
+            <Tile title="Watching" backgroundImage="" route="watching"/>
     </div>
 </template>
 
